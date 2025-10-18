@@ -25,7 +25,7 @@ The dataset contains the following columns:
 - Power BI – Dashboard visualization
 - Excel / CSV – Data source
 
-#💡 Key Learnings
+# 💡Key Learnings
 - Translating business questions into SQL queries
 - Performing aggregation, grouping, and ranking in SQL
 - Building dynamic Power BI dashboards
