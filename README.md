@@ -31,3 +31,8 @@ The dataset contains the following columns:
 - Performing aggregation, grouping, and ranking in SQL
 - Building dynamic Power BI dashboards
 - Interpreting data-driven business insights
+
+# 🖼️ Dashboard Preview
+<img width="1316" height="731" alt="image" src="https://github.com/user-attachments/assets/5e69442f-8fd6-471e-b603-7003ffa57201" />
+<img width="1312" height="721" alt="image" src="https://github.com/user-attachments/assets/67b17bd4-7cbc-4ca6-a702-1c2d2d2a2eaa" />
+
